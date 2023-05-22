@@ -30,5 +30,5 @@ Generative AI 및 Torch와 OpenCV에 대한 코드는 최대한 은닉했습니�
 
 
 ### References 
-- `[1]`. AIsketcher, [https://huggingface.co/Lykon/DreamShaper](https://github.com/hyeonsangjeon/AIsketcher)
+- `[1]`. AIsketcher, [https://github.com/hyeonsangjeon/AIsketcher](https://github.com/hyeonsangjeon/AIsketcher)
 
