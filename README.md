@@ -20,6 +20,9 @@ Text-to-image generation using Huggingface stable diffusion ControlNet condition
 2. 7개의 주어진 그림을 보고 상상했던 프롬프트를 입력합니다. 
 3. 직접 찍은 사진을 SageMaker에 업로드한 다음 사용해봅니다. 
 
+# 설계도
+![screenshot3](https://github.com/hyeonsangjeon/aws-korea-2023-coding-school/blob/main/readme.png)
+
 
 # Package Used
 AIsketcher를 구현 사용했습니다.[1]
